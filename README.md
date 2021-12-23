@@ -1,6 +1,9 @@
 # StalinOS
 StalinOS, the ultimate hacking operating system, is my custom Debian-based linux distribution that comes pre-installed with the Over 250 Hacking programs to assist you on your journey Default password for root and non root is stalin
 
+Download Virtual machine from here: https://drive.google.com/drive/folders/1kRSr26Bmmv6CfM-qwNaIsEKjSgaNQhIp?usp=sharing 
+
+
 * Information Gathering:
   * 1    Automater
   * 2    CamHacker
